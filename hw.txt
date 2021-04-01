@@ -1,1 +1,1 @@
-Hello world, welcome to the git tutorials
+Hello world, welcome to the git and github tutorials
